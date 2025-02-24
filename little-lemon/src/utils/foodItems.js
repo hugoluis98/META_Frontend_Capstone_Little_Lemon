@@ -87,7 +87,7 @@ import {
       minImg: Greeksalad_min_2kb,
       type: "salad",
       rating: 4.7,
-      price: 250,
+      price: 3.00,
     },
     {
       id: 2,
@@ -96,9 +96,9 @@ import {
       img: bruchetta,
       midImg: bruchetta_mid,
       minImg: bruchetta_min_2kb,
-      type: "appetizer",
+      type: "appetiser",
       rating: 4.3,
-      price: 150,
+      price: 2.00,
     },
     {
       id: 3,
@@ -109,7 +109,7 @@ import {
       minImg: LemonDessert_min_2kb,
       type: "dessert",
       rating: 4.5,
-      price: 200,
+      price: 2.00,
     },
     {
       id: 4,
@@ -120,7 +120,7 @@ import {
       minImg: pizza_min_2kb,
       type: "pizza",
       rating: 4.0,
-      price: 300,
+      price: 4.00,
     },
     {
       id: 5,
@@ -131,7 +131,7 @@ import {
       minImg: coffe_min_2kb,
       type: "drink",
       rating: 4.2,
-      price: 100,
+      price: 1.00,
     },
     {
       id: 6,
@@ -142,7 +142,7 @@ import {
       minImg: mixed_shake_min_2kb,
       type: "shake",
       rating: 4.6,
-      price: 120,
+      price: 2.00,
     },
     {
       id: 7,
@@ -153,7 +153,7 @@ import {
       minImg: strawberry_shake_min_2kb,
       type: "shake",
       rating: 4.8,
-      price: 150,
+      price: 2.00,
     },
     {
       id: 8,
@@ -164,7 +164,7 @@ import {
       minImg: maggi_min_2kb,
       type: "pasta",
       rating: 4.4,
-      price: 80,
+      price: 3.00,
     },
     {
       id: 9,
@@ -175,7 +175,7 @@ import {
       minImg: meal_min_2kb,
       type: "meal",
       rating: 4.9,
-      price: 200,
+      price: 2.00,
     },
     {
       id: 10,
@@ -186,7 +186,7 @@ import {
       minImg: pasta_min_2kb,
       type: "pasta",
       rating: 4.2,
-      price: 180,
+      price: 2.00,
     },
     {
       id: 11,
@@ -197,7 +197,7 @@ import {
       minImg: sandwich_min_2kb,
       type: "sandwich",
       rating: 4.5,
-      price: 120,
+      price: 1.00,
     },
     {
       id: 12,
@@ -208,7 +208,7 @@ import {
       minImg: sandwich2_min_2kb,
       type: "sandwich",
       rating: 4.4,
-      price: 140,
+      price: 2.00,
     },
     {
       id: 13,
@@ -219,7 +219,7 @@ import {
       minImg: veggie_min_2kb,
       type: "veggie",
       rating: 4.3,
-      price: 140,
+      price: 2.00,
     },
     {
       id: 14,
@@ -230,7 +230,7 @@ import {
       minImg: choclate_shake_min_2kb,
       type: "shake",
       rating: 4.7,
-      price: 130,
+      price: 1.00,
     },
     {
       id: 15,
@@ -241,7 +241,7 @@ import {
       minImg: ghee_idli_min_2kb,
       type: "tiffin",
       rating: 4.4,
-      price: 130,
+      price: 1.00,
     },
     {
       id: 16,
@@ -252,7 +252,7 @@ import {
       minImg: onion_ravva_min_2kb,
       type: "tiffin",
       rating: 4.9,
-      price: 50,
+      price: 2.00,
     },
     {
       id: 17,
@@ -263,7 +263,7 @@ import {
       minImg: plain_dosa_min_2kb,
       type: "tiffin",
       rating: 4.7,
-      price: 40,
+      price: 3.00,
     },
     {
       id: 18,
@@ -274,7 +274,7 @@ import {
       minImg: poori_min_2kb,
       type: "tiffin",
       rating: 4.2,
-      price: 60,
+      price: 2.00,
     },
     {
       id: 19,
@@ -285,7 +285,7 @@ import {
       minImg: vada_min_2kb,
       type: "tiffin",
       rating: 4.4,
-      price: 30,
+      price: 2.00,
     },
   ];
   

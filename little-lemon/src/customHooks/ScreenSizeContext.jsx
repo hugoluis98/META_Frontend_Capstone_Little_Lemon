@@ -1,14 +1,14 @@
-import fooditems from "../utils/foodItems";
 import React, {
   createContext,
-  useCallback,
   useContext,
   useEffect,
   useState,
   useMemo,
+  useCallback,
 } from "react";
 import useConfetti from "./Confetti";
 import { randomRange } from "../utils/functions";
+import fooditems from "../utils/foodItems";
 
 const ScreenSizeContext = createContext();
 
@@ -33,6 +33,7 @@ const ScreenSizeProvider = ({ children }) => {
   let [list, setList] = useState([]);
   let [itemsCount, setItemsCount] = useState(0);
   const [tip, setTip] = useState(0);
+
   const handleSize = useCallback(() => {
     setScreenSize({
       screenWidth: window.innerWidth,

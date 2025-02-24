@@ -21,7 +21,7 @@ import {
       midImg: Greeksalad_mid,
       minImg: Greeksalad_min_2kb,
       heading: "Greek salad",
-      price: 250,
+      price: 3.00,
       description:
         "The famous greek salad of crispy lettuce, peppers, olives and our Chicago style feta cheese, garnished with crunchy garlic and rosemary croutons. ",
     },
@@ -31,7 +31,7 @@ import {
       midImg: bruchetta_mid,
       minImg: bruchetta_min_2kb,
       heading: "Bruchetta",
-      price: 150,
+      price: 2.00,
       description:
         "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil. ",
     },
@@ -41,7 +41,7 @@ import {
       midImg: LemonDessert_mid,
       minImg: LemonDessert_min_2kb,
       heading: "Lemon Dessert",
-      price: 200,
+      price: 2.00,
       description:
         " This comes straight from grandma’s recipe book, every last ingredient has been sourced and is as authentic as can be imagined. ",
     },
@@ -52,13 +52,13 @@ import {
       id: "abc",
       name: "Groot",
       midImg: groot_mid,
-      review: "Delicious food served in a cozy ambiance, great experience.",
+      review: "Delicious food served in a cosy ambiance, great experience.",
     },
     {
       id: "cca",
       name: "Superman",
       midImg: superMan_mid,
-      review: "Tasty dishes, cozy vibe, highly recommended spot.",
+      review: "Tasty dishes, cosy vibe, highly recommended spot.",
     },
     {
       id: "zzz",

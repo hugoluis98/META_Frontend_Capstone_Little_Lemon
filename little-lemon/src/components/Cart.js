@@ -17,9 +17,9 @@ const Cart = () => {
   }
 
   useEffect(() => {
-    let gst = calculatePercentage(5, totalPrice);
+    let vat = calculatePercentage(5, totalPrice);
 
-    setGrandtot(totalPrice + gst + 25 + tip);
+    setGrandtot(totalPrice + vat + 3 + tip);
   }, [tip, totalPrice]);
 
   if (list.length <= 0) {
@@ -105,7 +105,7 @@ const CartArticle = ({ list, addItems, deleteItems }) => {
               </div>
             </section>
             <section className="cart_section_2">
-              <h3>£ {item.price}</h3>
+              <h3>$ {item.price}</h3>
             </section>
           </article>
         );
@@ -180,11 +180,11 @@ const Footer2 = ({ grandtot }) => {
             <h3>{totalPrice}</h3>
           </div>
           <div>
-            <h3>delivery charges :</h3>
-            <h3>25/-</h3>
+            <h3>Delivery Charges :</h3>
+            <h3>3</h3>
           </div>
           <div>
-            <h3>GST 5%</h3>
+            <h3>VAT 5%</h3>
             <h3>{((5 / 100) * totalPrice).toFixed(2)}</h3>
           </div>
           <div className="cart_add_tip_div">
@@ -216,7 +216,7 @@ const Footer2 = ({ grandtot }) => {
         <section className="cart_footer_grand_total">
           <h2>Order Total: </h2>
           <h2>
-            <span className="pounds">£</span>
+            <span className="dollars">$</span>
             {grandtot}
           </h2>
         </section>
@@ -256,12 +256,12 @@ const ShowDiscountComponent = () => {
           <h2>
             {" "}
             &#127873; You saved{" "}
-            <span className="saved_pounds">
+            <span className="saved_dollars">
               {" "}
-              <span className="pounds">£</span>
+              <span className="dollars">$</span>
               {getDiscount}
             </span>{" "}
-            pounds
+            dollars
           </h2>
           <span
             onClick={handlediscountFlag}

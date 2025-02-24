@@ -316,7 +316,7 @@
     color: white;
   }
   
-  .cart_footer_grand_total .pounds {
+  .cart_footer_grand_total .dollars {
     font-size: 2rem;
     font-weight: bold;
   }
@@ -436,10 +436,10 @@
     color: white;
   }
   
-  .saved_pounds {
+  .saved_dollars {
     color: #b12704;
   }
-  .saved_pounds .pounds {
+  .saved_dollars .dollars {
     font-size: 2.2rem;
   }
   

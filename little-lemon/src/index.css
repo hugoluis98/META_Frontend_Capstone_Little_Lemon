@@ -752,7 +752,7 @@ h2 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
   overflow: hidden;
-  display: box;
+  display: flex;
   line-clamp: 9;
 }
 
@@ -806,7 +806,7 @@ h2 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 8;
   overflow: hidden;
-  display: box;
+  display: flex;
   line-clamp: 9;
 }
 

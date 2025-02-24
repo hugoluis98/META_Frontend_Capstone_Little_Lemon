@@ -115,7 +115,7 @@ const FoodItem = ({ id, title, minImg, midImg, type, rating, price }) => {
             </div>
             <div className="order_online_last_container">
               <p className="order_online_item_price">
-                £ {price} {screenWidth < 400 && itemCount > 0 ? "" : "for one"}
+                $ {price} {screenWidth < 400 && itemCount > 0 ? "" : "for one"}
               </p>
 
               {/* {itemCount > 0 && screenWidth >= 500 ? ( */}

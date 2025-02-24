@@ -68,7 +68,7 @@ const Footer = () => {
         <nav className="footer_navList">
           <section className="footer_nav_section">
             <header>
-              <h1 className="footer_navList_h1">Doormat Navigation</h1>
+              <h1 className="footer_navList_h1">Navigation</h1>
             </header>
 
             <ul className="footer_navList_ul">
@@ -119,7 +119,7 @@ const Footer = () => {
                   rel="noopener noreferrer"
                   href="https://www.linkedin.com/in/louis-mcgurk-57654912a/"
                 >
-                  Linkdin
+                  Linkedin
                 </a>
               </li>
               <li>
