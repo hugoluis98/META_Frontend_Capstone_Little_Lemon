@@ -316,7 +316,7 @@
     color: white;
   }
   
-  .cart_footer_grand_total .rupees {
+  .cart_footer_grand_total .pounds {
     font-size: 2rem;
     font-weight: bold;
   }
@@ -436,10 +436,10 @@
     color: white;
   }
   
-  .saved_rupees {
+  .saved_pounds {
     color: #b12704;
   }
-  .saved_rupees .rupees {
+  .saved_pounds .pounds {
     font-size: 2.2rem;
   }
   

@@ -105,7 +105,7 @@ const CartArticle = ({ list, addItems, deleteItems }) => {
               </div>
             </section>
             <section className="cart_section_2">
-              <h3>₹ {item.price}</h3>
+              <h3>£ {item.price}</h3>
             </section>
           </article>
         );
@@ -216,7 +216,7 @@ const Footer2 = ({ grandtot }) => {
         <section className="cart_footer_grand_total">
           <h2>Order Total: </h2>
           <h2>
-            <span className="rupees">₹</span>
+            <span className="pounds">£</span>
             {grandtot}
           </h2>
         </section>
@@ -256,12 +256,12 @@ const ShowDiscountComponent = () => {
           <h2>
             {" "}
             &#127873; You saved{" "}
-            <span className="saved_rupees">
+            <span className="saved_pounds">
               {" "}
-              <span className="rupees">₹</span>
+              <span className="pounds">£</span>
               {getDiscount}
             </span>{" "}
-            rupees
+            pounds
           </h2>
           <span
             onClick={handlediscountFlag}
