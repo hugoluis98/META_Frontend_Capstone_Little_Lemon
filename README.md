@@ -10,4 +10,4 @@ Please note: the only functionality working on this website besides the design i
 ## Screenshots
 Here is a screenshot of the page.
 
-![little lemon website table booking](/public/assets/cover.png)
+![little lemon website table booking](/public/assets/github_cover.png)

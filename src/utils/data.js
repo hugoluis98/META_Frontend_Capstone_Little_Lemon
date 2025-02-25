@@ -20,7 +20,7 @@ import {
       img: Greeksalad,
       midImg: Greeksalad_mid,
       minImg: Greeksalad_min_2kb,
-      heading: "Greek salad",
+      heading: "Greek Salad",
       price: 3.00,
       description:
         "The famous greek salad of crispy lettuce, peppers, olives and our Chicago style feta cheese, garnished with crunchy garlic and rosemary croutons. ",

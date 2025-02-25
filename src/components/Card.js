@@ -99,7 +99,7 @@ const Card = ({ id, midImg, heading, price, description }) => {
               className="special_order_title"
               onClick={() => navigate("/orderonline")}
             >
-              Order a delivery
+              Order Now
             </h2>
 
             <button className="special_order_delivery_button">
