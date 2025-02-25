@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/little-lemon/static/css/main.5d140ff4.css",
-    "main.js": "/little-lemon/static/js/main.ef86ecf2.js",
-    "static/js/140.1dea95b6.chunk.js": "/little-lemon/static/js/140.1dea95b6.chunk.js",
-    "static/css/793.9a139d3b.chunk.css": "/little-lemon/static/css/793.9a139d3b.chunk.css",
-    "static/js/793.55a53451.chunk.js": "/little-lemon/static/js/793.55a53451.chunk.js",
-    "static/js/834.3fbcc638.chunk.js": "/little-lemon/static/js/834.3fbcc638.chunk.js",
-    "static/js/985.0c5f83d6.chunk.js": "/little-lemon/static/js/985.0c5f83d6.chunk.js",
-    "static/js/742.e36ffb39.chunk.js": "/little-lemon/static/js/742.e36ffb39.chunk.js",
-    "static/js/813.5f47d7c0.chunk.js": "/little-lemon/static/js/813.5f47d7c0.chunk.js",
-    "static/js/289.a1043269.chunk.js": "/little-lemon/static/js/289.a1043269.chunk.js",
-    "index.html": "/little-lemon/index.html",
-    "main.5d140ff4.css.map": "/little-lemon/static/css/main.5d140ff4.css.map",
-    "main.ef86ecf2.js.map": "/little-lemon/static/js/main.ef86ecf2.js.map",
-    "140.1dea95b6.chunk.js.map": "/little-lemon/static/js/140.1dea95b6.chunk.js.map",
-    "793.9a139d3b.chunk.css.map": "/little-lemon/static/css/793.9a139d3b.chunk.css.map",
-    "793.55a53451.chunk.js.map": "/little-lemon/static/js/793.55a53451.chunk.js.map",
-    "834.3fbcc638.chunk.js.map": "/little-lemon/static/js/834.3fbcc638.chunk.js.map",
-    "985.0c5f83d6.chunk.js.map": "/little-lemon/static/js/985.0c5f83d6.chunk.js.map",
-    "742.e36ffb39.chunk.js.map": "/little-lemon/static/js/742.e36ffb39.chunk.js.map",
-    "813.5f47d7c0.chunk.js.map": "/little-lemon/static/js/813.5f47d7c0.chunk.js.map",
-    "289.a1043269.chunk.js.map": "/little-lemon/static/js/289.a1043269.chunk.js.map"
+    "main.css": "/META_Frontend_Capstone_Little_Lemon/static/css/main.5d140ff4.css",
+    "main.js": "/META_Frontend_Capstone_Little_Lemon/static/js/main.054e046b.js",
+    "static/js/140.1dea95b6.chunk.js": "/META_Frontend_Capstone_Little_Lemon/static/js/140.1dea95b6.chunk.js",
+    "static/css/793.9a139d3b.chunk.css": "/META_Frontend_Capstone_Little_Lemon/static/css/793.9a139d3b.chunk.css",
+    "static/js/793.55a53451.chunk.js": "/META_Frontend_Capstone_Little_Lemon/static/js/793.55a53451.chunk.js",
+    "static/js/834.3fbcc638.chunk.js": "/META_Frontend_Capstone_Little_Lemon/static/js/834.3fbcc638.chunk.js",
+    "static/js/985.0c5f83d6.chunk.js": "/META_Frontend_Capstone_Little_Lemon/static/js/985.0c5f83d6.chunk.js",
+    "static/js/742.e36ffb39.chunk.js": "/META_Frontend_Capstone_Little_Lemon/static/js/742.e36ffb39.chunk.js",
+    "static/js/813.5f47d7c0.chunk.js": "/META_Frontend_Capstone_Little_Lemon/static/js/813.5f47d7c0.chunk.js",
+    "static/js/289.a1043269.chunk.js": "/META_Frontend_Capstone_Little_Lemon/static/js/289.a1043269.chunk.js",
+    "index.html": "/META_Frontend_Capstone_Little_Lemon/index.html",
+    "main.5d140ff4.css.map": "/META_Frontend_Capstone_Little_Lemon/static/css/main.5d140ff4.css.map",
+    "main.054e046b.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/main.054e046b.js.map",
+    "140.1dea95b6.chunk.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/140.1dea95b6.chunk.js.map",
+    "793.9a139d3b.chunk.css.map": "/META_Frontend_Capstone_Little_Lemon/static/css/793.9a139d3b.chunk.css.map",
+    "793.55a53451.chunk.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/793.55a53451.chunk.js.map",
+    "834.3fbcc638.chunk.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/834.3fbcc638.chunk.js.map",
+    "985.0c5f83d6.chunk.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/985.0c5f83d6.chunk.js.map",
+    "742.e36ffb39.chunk.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/742.e36ffb39.chunk.js.map",
+    "813.5f47d7c0.chunk.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/813.5f47d7c0.chunk.js.map",
+    "289.a1043269.chunk.js.map": "/META_Frontend_Capstone_Little_Lemon/static/js/289.a1043269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d140ff4.css",
-    "static/js/main.ef86ecf2.js"
+    "static/js/main.054e046b.js"
   ]
 }
