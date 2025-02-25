@@ -7,10 +7,6 @@ This website showcased implementing a booking application on the Little Lemon We
 
 Please note: the only functionality working on this website besides the design is the reserve a table function, add items to cart and enter sign in details (with pop-up message)
 
-## Live Preview
-
-Check out the live version of the website! [View Live Demo](https://littlelemon.leanczo.vercel.app/)
-
 ## Features
 
 - Smooth navigation through the pages.
