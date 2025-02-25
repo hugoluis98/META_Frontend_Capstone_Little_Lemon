@@ -110,7 +110,7 @@ const Footer = () => {
           </section>
           <section className="footer_nav_section">
             <header>
-              <h1 className="footer_navList_h1">Social Media Links</h1>
+              <h1 className="footer_navList_h1">Social Media</h1>
             </header>
             <ul className="footer_navList_ul">
               <li>

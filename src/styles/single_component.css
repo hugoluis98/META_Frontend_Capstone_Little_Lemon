@@ -54,7 +54,7 @@
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 9;
     overflow: hidden;
-    display: box;
+    display: flex;
     line-clamp: 9;
   }
   
