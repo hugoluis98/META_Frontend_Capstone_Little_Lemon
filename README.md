@@ -1,6 +1,6 @@
 # Little Lemon Booking Website 🍋
 
-# Live Website
+## Live Website
 https://meta-frontend-capstone-little-lemon-ansskt4fh.vercel.app
 
 ## Project Description
